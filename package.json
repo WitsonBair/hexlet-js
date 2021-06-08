@@ -1,0 +1,22 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/WitsonBair/hexlet-js.git"
+  },
+  "keywords": [
+    "novice"
+  ],
+  "author": "WitwonBair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WitsonBair/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/WitsonBair/hexlet-js#readme"
+}
